@@ -1,5 +1,5 @@
 import pandas as pd
-df=pd.read_excel('双因子方差分析.xlsx')
+df=pd.read_excel('supermarket.xlsx')
 print(df)
 
 #计量经济学模型
