@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-data = pd.read_csv('D:\project/10信息分析方法与工具\9一元线性回归\iris\iris.csv')
+data = pd.read_csv('/iris/iris.csv')
 print(data.head(5))
 # print(data.iloc[:,:4])
 
